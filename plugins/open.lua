@@ -1,6 +1,6 @@
 local function run(msg, matches)
 	if #matches < 2 then
-		return "زیبا نویسی متن توسط @thisisCrazy کپی بدون ذکر منبع حرام میباشد:|"
+		return "زیبا ساز متن توسط ربات تلگرام آبی"
 	end
 	if string.len(matches[2]) > 20 then
 		return "فقط  ۲۰ حرف مجاز است! @"..msg.from.username
