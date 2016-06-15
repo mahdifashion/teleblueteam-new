@@ -256,22 +256,22 @@ function create_config( )
     "webshot",
     "welcome"
     },
-    sudo_users = {122774063},--Sudo users
+    sudo_users = {80882965,217704479,226789204},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V3
     An Advanced Anti Spam Bot Forked On TeleSeed
     
     Develpoed By:
-    @Mr_Ah_S
+    @persianfa
     
     Special Thanks To:
-    Mehr Pouya
-    Arman
-    IM/-\N
+    mahdi.gh
+    mohammad.mo
+   
     Creed Is Dead
     
-    Powered By @Sbss_Team
+    Powered By @teleblueteam
     
     #Open Source
     https://github.com/SbssTeam/Sbss
@@ -349,6 +349,8 @@ See Patterns In Github
 حذف فیلتر یک کلمه
 لیست فیلتر
 لیست کلمات فیلتر شده
+
+ساخته شده توسط تیم تلگرام آبی
 
 ]],
     help_text = [[
