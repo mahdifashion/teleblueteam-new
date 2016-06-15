@@ -1,8 +1,8 @@
 --[[
 
 #
-#     @GPMOD
-#   @Dragon_Born
+#     @persianfa
+#   @teleblue team
 #      
 
 ]]
